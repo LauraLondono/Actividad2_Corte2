@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.card img:hover {
+  opacity: 0.6;
+  transition: all 0.5s ease;
+}
+
+.btn1:hover path, .btn2:hover path{
+  fill: #e60023;
+}
+
+.btnsHeader:hover path {
+  fill: #e60023;
+}
+
